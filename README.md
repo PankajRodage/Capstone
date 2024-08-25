@@ -33,9 +33,9 @@ Estimate the monetary benefits of implementing the data analysis solutions.
 # Installation
 #### Prerequisites
 To work with this project, ensure you have the following installed:
-    ● Python (>= 3.6)
-    ● Jupyter Notebook (optional, for interactive work)
-    ● Libraries: Pandas, Numpy, Matplotlib, Seaborn
+    ●Python (>= 3.6)
+    ●Jupyter Notebook (optional, for interactive work)
+    ●Libraries: Pandas, Numpy, Matplotlib, Seaborn
 #### Installation Steps
 
 
