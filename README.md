@@ -18,17 +18,17 @@ Define suitable success metrics to measure the project's effectiveness.
 Estimate the monetary benefits of implementing the data analysis solutions.
 
 # Table of Contents
-1.Project Description
-2.Installation
-3.Usage
-4.Dependencies
-5.Contributing
-6.License
-7.Credits and Acknowledgments
-8.Contact Information
-9.Badges
-10.Future Work
-11.References
+1.Project Description 
+2.Installation 
+3.Usage 
+4.Dependencies 
+5.Contributing 
+6.License 
+7.Credits and Acknowledgments 
+8.Contact Information 
+9.Badges 
+10.Future Work 
+11.References 
 
 # Installation
 Prerequisites
