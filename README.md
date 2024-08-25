@@ -39,7 +39,8 @@ To work with this project, ensure you have the following installed:
     ●Libraries: Pandas, Numpy, Matplotlib, Seaborn
     
 #### Installation Steps
-
+    Install the Required Libraries
+    Run Jupyter Notebook 
 
 # Usage
 #### Instructions
