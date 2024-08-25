@@ -33,6 +33,7 @@ Estimate the monetary benefits of implementing the data analysis solutions.
 # Installation
 #### Prerequisites
 To work with this project, ensure you have the following installed:
+
     ●Python (>= 3.6)
     ●Jupyter Notebook (optional, for interactive work)
     ●Libraries: Pandas, Numpy, Matplotlib, Seaborn
@@ -52,6 +53,7 @@ To develop a proof of concept, execute proof_of_concept.py.
 Ensure that the dataset file (e.g., olist_data.csv) is located in the project directory or specify the correct path in the scripts.
 
 # Dependencies
+
 ● Pandas (>= 1.2.0)
 ● Numpy (>= )
 ● Matplotlib (>= 3.3.0)
