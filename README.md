@@ -18,24 +18,24 @@ Define suitable success metrics to measure the project's effectiveness.
 Estimate the monetary benefits of implementing the data analysis solutions.
 
 # Table of Contents
-1.Project Description 
-2.Installation 
-3.Usage 
-4.Dependencies 
-5.Contributing 
-6.License 
-7.Credits and Acknowledgments 
-8.Contact Information 
-9.Badges 
-10.Future Work 
-11.References 
+1. Project Description 
+2. Installation 
+3. Usage 
+4. Dependencies 
+5. Contributing 
+6. License 
+7. Credits and Acknowledgments 
+8. Contact Information 
+9. Badges 
+10. Future Work 
+11. References 
 
 # Installation
 Prerequisites
 To work with this project, ensure you have the following installed:
-Python (>= 3.6)
-Jupyter Notebook (optional, for interactive work)
-Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn
+● Python (>= 3.6)
+● Jupyter Notebook (optional, for interactive work)
+● Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn
 Installation Steps
 
 
@@ -52,34 +52,35 @@ To develop a proof of concept, execute proof_of_concept.py.
 Ensure that the dataset file (e.g., olist_data.csv) is located in the project directory or specify the correct path in the scripts.
 
 # Dependencies
-1.Pandas (>= 1.2.0)
-2.Numpy (>= )
-3.Matplotlib (>= 3.3.0)
-4.Seaborn (>= 0.11.0)
+● Pandas (>= 1.2.0)
+● Numpy (>= )
+● Matplotlib (>= 3.3.0)
+● Seaborn (>= 0.11.0)
 
 # Contributing
 #### Guidelines
-Fork the Repository and create a new branch for your contributions:
+1. Fork the Repository and create a new branch for your contributions:
 
 #### Issues and Feedback
-Report issues or suggest improvements by opening an issue on the GitHub Issues page.
+2. Report issues or suggest improvements by opening an issue on the GitHub Issues page.
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+3. This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Credits and Acknowledgments
-Contributors: Pankaj Shrishail Rodage
-Third-Party Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn
-Resources: Based on data science strategies and best practices.
-Contact Information
+1. Contributors: Pankaj Shrishail Rodage
+2. Third-Party Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn
+3. Resources: Based on data science strategies and best practices.
+
+# Contact Information
 For questions, support, or feedback,  Email:- rodagepankaj441@gmail.com.
 
 # Badges
 
 # Future Work
-    Expand the proof of concept to cover additional use cases.
-    Develop interactive dashboards for enhanced data visualization.
-    Explore advanced analytics techniques such as predictive modeling.
+    1. Expand the proof of concept to cover additional use cases.
+    2. Develop interactive dashboards for enhanced data visualization.
+    3. Explore advanced analytics techniques such as predictive modeling.
 # References
     1.Pandas Documentation
     2.Numpy Documentation
