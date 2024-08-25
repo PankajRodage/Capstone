@@ -82,6 +82,6 @@ For questions, support, or feedback,  Email:- rodagepankaj441@gmail.com.
     Explore advanced analytics techniques such as predictive modeling.
 # References
     1.Pandas Documentation
-    2.Matplotlib Documentation
-    3.Seaborn Documentation
-    4.Scikit-learn Documentation
+    2.Numpy Documentation
+    3.Matplotlib Documentation
+    4.Seaborn Documentation
